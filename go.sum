@@ -1,0 +1,4 @@
+github.com/chromium/hstspreload v0.0.0-20220808210014-36bacd67a2db h1:O9X/4SWaY2huAmb02dKyPlaPfMdXxevcy6+xZRtRXrE=
+github.com/chromium/hstspreload v0.0.0-20220808210014-36bacd67a2db/go.mod h1:ONZrooOe+txIAuMLWTcwEDQRsJ23scNGdZERlJWrJz4=
+golang.org/x/net v0.0.0-20221019024206-cb67ada4b0ad h1:Zx6wVVDwwNJFWXNIvDi7o952w3/1ckSwYk/7eykRmjM=
+golang.org/x/net v0.0.0-20221019024206-cb67ada4b0ad/go.mod h1:RpDiru2p0u2F0lLpEoqnP2+7xs0ifAuOcJ442g6GU2s=
